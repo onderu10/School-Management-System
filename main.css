@@ -1,0 +1,58 @@
+*{
+
+margin: 0;
+padding: 0;
+width: auto;
+height: auto;
+
+}
+
+body{
+    background-color:#192627;
+
+
+}
+.menu-bar{
+
+background-color: #20cf8f;
+text-align: center;
+
+
+}
+.menu-bar ul{
+
+display: inline-flex;
+list-style: none;
+
+}
+
+.menu-bar ul li{
+
+width: 150px;
+margin:15px ;
+
+}
+
+.menu-bar ul li a {
+
+text-decoration: none;
+color: white;
+font-size: 20px;
+
+
+}
+
+.menu-bar ul li a:hover{
+
+    color: #192627;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+footer{
+
+
+    background-color: #20cf8f;
+    text-align: center;
+
+}
